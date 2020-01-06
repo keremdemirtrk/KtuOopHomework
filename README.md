@@ -18,3 +18,9 @@
 - Dilation
 - Opening 
 - Closing
+
+For Run;
+
+İndirdiğiniz dizine gelin
+g++ main.cpp
+/a.out
